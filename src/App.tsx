@@ -1,4 +1,4 @@
-import { SignupForm } from '../components/index'
+import { SignupForm } from './components/index'
 
 const App = () => {
     
